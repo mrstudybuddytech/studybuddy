@@ -244,3 +244,6 @@
 
 
 })(window.jQuery);
+$('#app').click(function(){
+    window.location.href = "app.html"; 
+});
