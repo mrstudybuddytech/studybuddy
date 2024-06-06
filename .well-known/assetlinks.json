@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mr_captain.studybuddy.student",
+    "sha256_cert_fingerprints":
+    ["C1:DD:AA:1E:D3:91:98:CD:EF:16:7D:05:D6:E8:A4:93:EC:65:F4:84:13:F4:8D:82:4B:9D:FE:66:01:54:73:7E"]
+  }
+}]
